@@ -1,3 +1,5 @@
+cd C:\Data\Son\CSUF\2018_1_Spring\473\Homework\HW5\HW5\chattrbox
+
 in cmd1: cd app folder
 npm start
 manually stop nodemon with Control-C, and restart it with
