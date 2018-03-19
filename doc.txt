@@ -1,6 +1,7 @@
 in cmd1: cd app folder
 npm start
-manually stop nodemon with Control-C, and restart it with npm run dev
+manually stop nodemon with Control-C, and restart it with
+npm run dev
 
 in cmd2: cd app folder
 wscat -c ws://localhost:3001
